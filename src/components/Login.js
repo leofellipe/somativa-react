@@ -8,7 +8,7 @@ function Login() {
 
   const dataBase = [
     {
-      user: 'leonardo.fellipe@pucpr.edu.br',
+      user: 'mytest2@test.com',
       password: 12345
     }
   ]
